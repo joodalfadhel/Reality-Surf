@@ -29,5 +29,12 @@ update -> repaint -> update -> repaint ....
 
 This Graphics2D class extends the Graphics class to provide more sophisticated control over geometry, coordinate transformations, color management, and text layout.
 
+**Player Positions**:
+in java, upper left corner is x:0 y:0 
+x value increases to the right -> 
+y value increases down 
+
 ----
 ## Key Handler
+
+VK -> Virtual Key: reports which key was selected 
