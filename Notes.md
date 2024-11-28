@@ -38,3 +38,8 @@ y value increases down
 ## Key Handler
 
 VK -> Virtual Key: reports which key was selected 
+
+## Sprites 
+
+16*16 
+transparent bg -> save as png 
